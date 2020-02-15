@@ -1,0 +1,2 @@
+# pinterested
+rails-pinterested
